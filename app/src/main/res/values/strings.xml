@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Single Page App - Bakery On The Go</string>
+    <string name="title">Welcome to Bakery On The Go!</string>
+    <string name="description">Snug take-out coffee joint inside Bathurst subway station, with donuts and Jamaican patties.</string>
+    <string name="phone_number">Phone: (416) 532-7795</string>
+    <string name="address">Address: 819 Bathurst St, Toronto, ON M5R 3G2</string>
+    <string name="operating_hours">Hours: Everyday 7a.m.– 8p.m.</string>
 </resources>
